@@ -5,7 +5,7 @@ patches/
 .minecraft/data
 .minecraft/Distant_Horizons_server_data
 .minecraft/ESM
-.minecraft/essential/
+.minecraft/essential/*
 !.minecraft/essential/config.toml
 .minecraft/fancymenu_data
 .minecraft/logs
@@ -36,5 +36,8 @@ patches/
 .minecraft/automodpack/modpacks
 
 .minecraft/mods/battlemusic-1.20.1-1.1.1.jar
+
+.minecraft/saves/*
+!.minecraft/saves/U-Testing
 
 *.log
