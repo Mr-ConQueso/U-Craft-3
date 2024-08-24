@@ -38,6 +38,6 @@ patches/
 .minecraft/mods/battlemusic-1.20.1-1.1.1.jar
 
 .minecraft/saves/*
-!.minecraft/saves/U-Testing
+!.minecraft/saves/U-Testing/*
 
 *.log
