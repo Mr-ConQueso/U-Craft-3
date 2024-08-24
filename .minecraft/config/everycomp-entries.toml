@@ -326,12 +326,6 @@
 		[entries.wood_type.backpacked]
 			backpack_shelf = true
 
-		[entries.wood_type.decorative_blocks]
-			seat = true
-			palisade = true
-			beam = true
-			support = true
-
 		[entries.wood_type.friendsandfoes]
 			beehive = true
 
@@ -373,9 +367,6 @@
 			dark_ceiling_fan = true
 			lattice_fence_gate = true
 			bath = true
-
-		[entries.wood_type.missingwilds]
-			fallen_log = true
 
 		[entries.wood_type.valhelsia_structures]
 			post = true
