@@ -1,0 +1,13 @@
+#OPAC Bluemap Integration Cofig
+#Claims Update Interval (in ticks)
+#Range: > 0
+updateInterval = 12000
+#Minimum Y Marker
+#Range: -60.0 ~ 255.0
+markerMinY = 75.0
+#Maximum Y Marker
+#Range: -60.0 ~ 255.0
+markerMaxY = 75.0
+#Depth Test
+depthTest = false
+

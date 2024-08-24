@@ -1,0 +1,13 @@
+#The number times that a Stabilized Warp Scroll can be used. Set to 0 for infinite uses.
+#Range: > 0
+stable_warp_scroll_uses = 1
+#The max size Stabilized Warp Scrolls can be stacked to. Only applies if stable_warp_scroll_uses < 2
+#Range: 0 ~ 64
+stable_warp_scroll_stack = 1
+#The max size Warp Scrolls can be stacked to.
+#Range: 0 ~ 64
+warp_scroll_stack = 1
+#The max number of jumps you can do before you must touch the ground with the Ring of Jumping. Set to 0 for infinite jumps.
+#Range: > 0
+jumping_ring_max = 1
+

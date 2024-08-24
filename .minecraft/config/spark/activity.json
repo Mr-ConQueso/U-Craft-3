@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "MrConQueso",
+      "uniqueId": "178ce2cb-5682-4cfd-bd93-e656cf23ed41"
+    },
+    "time": 1724371112621,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CU2jwpqxaX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MrConQueso",
+      "uniqueId": "178ce2cb-5682-4cfd-bd93-e656cf23ed41"
+    },
+    "time": 1724369252139,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/khebKf16rp"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MrConQueso",
+      "uniqueId": "178ce2cb-5682-4cfd-bd93-e656cf23ed41"
+    },
+    "time": 1724364101286,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/acCLaBhM9Y"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MrConQueso",
+      "uniqueId": "178ce2cb-5682-4cfd-bd93-e656cf23ed41"
+    },
+    "time": 1724361337623,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/eNc4nrBfeT"
+    }
+  }
+]

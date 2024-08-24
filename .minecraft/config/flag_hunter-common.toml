@@ -1,0 +1,12 @@
+
+#Server data
+[SavedData]
+	#True if the red team is alive
+	RedTeamAlive = true
+	#True if the green team is alive
+	GreenTeamAlive = true
+	#True if the blue team is alive
+	BlueTeamAlive = true
+	#True if the yellow team is alive
+	YellowTeamAlive = true
+

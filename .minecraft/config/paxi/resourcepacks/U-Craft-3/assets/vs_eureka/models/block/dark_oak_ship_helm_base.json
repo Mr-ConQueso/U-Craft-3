@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "vs_eureka:block/dark_oak_ship_helm"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [4, 0, 8],
+			"to": [12, 10, 12],
+			"faces": {
+				"north": {"uv": [1, 4.75, 3, 7.25], "texture": "#0"},
+				"east": {"uv": [0, 4.75, 1, 7.25], "texture": "#0"},
+				"south": {"uv": [4, 4.75, 6, 7.25], "texture": "#0"},
+				"west": {"uv": [3, 4.75, 4, 7.25], "texture": "#0"},
+				"up": {"uv": [3, 4.75, 1, 3.75], "texture": "#0"},
+				"down": {"uv": [5, 3.75, 3, 4.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [44, 45, 0],
+			"translation": [1, 1, 3],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [44, 45, 0],
+			"translation": [1, 1, 3],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 16, 0],
+			"translation": [2.25, 2.25, 0],
+			"scale": [0.8, 0.8, 0.5208]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 16, 0],
+			"translation": [2.25, 2.25, 0],
+			"scale": [0.8, 0.8, 0.5208]
+		},
+		"ground": {
+			"translation": [0, 7, 2.5],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"gui": {
+			"rotation": [24, 130, 0],
+			"translation": [3.5, 2.75, 0]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -0.5, 4.25],
+			"scale": [1.8, 1.8, 1.8]
+		},
+		"fixed": {
+			"translation": [0, 1.5, 4.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
