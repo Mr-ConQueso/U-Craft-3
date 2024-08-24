@@ -108,7 +108,7 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 [building]
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 	"Compressed Blocks" = true
 	"Duskbound Blocks" = true
 	"Framed Glass" = true
@@ -197,8 +197,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - immersive_weathering
 		# - woodworks
+		# - immersive_weathering
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -237,8 +237,8 @@
 		#Allowed values: [0,1]
 		"Fall Damage Multiplier" = 0.5
 		#This feature disables itself if any of the following mods are loaded:
-		# - environmental
 		# - goated
+		# - environmental
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -246,8 +246,8 @@
 	[building.variant_bookshelves]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -266,8 +266,8 @@
 	[building.variant_ladders]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -287,7 +287,7 @@
 	"Expanded Item Interactions" = true
 	"Hotbar Changer" = false
 	"Inventory Sorting" = true
-	"Item Sharing" = true
+	"Item Sharing" = false
 	"Quick Armor Swapping" = true
 
 	[management.automatic_tool_restock]
@@ -341,14 +341,14 @@
 	Abacus = true
 	"Ambient Discs" = true
 	"Ancient Tomes" = true
-	"Beacon Redirection" = false
+	"Beacon Redirection" = true
 	"Bottled Cloud" = true
 	"Color Runes" = true
 	"Endermosh Music Disc" = true
 	"Parrot Eggs" = true
 	"Pathfinder Maps" = false
 	Pickarang = true
-	"Seed Pouch" = true
+	"Seed Pouch" = false
 	"Skull Pikes" = true
 	"Slime In A Bucket" = true
 	"Torch Arrow" = false
@@ -1561,10 +1561,10 @@
 	"Greener Grass" = true
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
-	"Microcrafting Helper" = true
+	"Microcrafting Helper" = false
 	"Soul Candles" = true
 	"Usage Ticker" = true
-	"Uses For Curses" = true
+	"Uses For Curses" = false
 	"Variant Animal Textures" = true
 	"Wool Shuts Up Minecarts" = true
 
@@ -1608,18 +1608,18 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
-		"Food Tooltips" = true
-		"Shulker Tooltips" = true
+		"Food Tooltips" = false
+		"Shulker Tooltips" = false
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
 		"Fuel Time Tooltips" = true
-		"Shulker Box Use Colors" = true
+		"Shulker Box Use Colors" = false
 		"Shulker Box Require Shift" = false
 		"Map Require Shift" = false
 		#The value of each shank of food.
 		#Tweak this when using mods like Hardcore Hunger which change that value.
 		"Food Divisor" = 2
-		"Show Saturation" = true
+		"Show Saturation" = false
 		"Food Compression Threshold" = 4
 		"Fuel Time Divisor" = 200
 		#Should item attributes be colored relative to your current equipped item?
@@ -1822,12 +1822,12 @@
 
 [oddities]
 	Backpack = false
-	Crate = true
+	Crate = false
 	Magnets = false
 	"Matrix Enchanting" = false
 	Pipes = false
-	"Tiny Potato" = true
-	"Totem Of Holding" = true
+	"Tiny Potato" = false
+	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them

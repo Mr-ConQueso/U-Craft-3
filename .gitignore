@@ -31,6 +31,7 @@ patches/
 .minecraft/config/jei/world
 .minecraft/config/world_preview/world-preview
 .minecraft/config/.vscode
+.minecraft/config/spark/tmp
 
 .minecraft/mods/.connector
 .minecraft/automodpack/modpacks

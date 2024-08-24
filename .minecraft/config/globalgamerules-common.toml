@@ -36,7 +36,7 @@
 		#Whether phantoms can spawn in the nighttime.
 		do_insomnia = true
 		#Whether mobs should naturally spawn. Does not affect monster spawners.
-		do_mob_spawning = true
+		do_mob_spawning = false
 		#Whether patrols can spawn.
 		do_patrol_spawning = true
 		#Whether wandering traders can spawn.
@@ -106,7 +106,7 @@
 
 	[gamerules.updates]
 		#Whether the daylight cycle and moon phases progress.
-		do_daylight_cycle = true
+		do_daylight_cycle = false
 		#Whether fire should spread and naturally extinguish
 		do_fire_tick = false
 		#Whether vines can spread to other blocks. Cave vines, weeping vines, and twisting vines are not affected.

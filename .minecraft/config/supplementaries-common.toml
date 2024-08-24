@@ -342,7 +342,7 @@
 		quiver_pickup = true
 
 	[tools.slice_map]
-		enabled = true
+		enabled = false
 		#Multiplier that will be applied by slice maps to lower their range compared to normal maps
 		#Range: 0.0 ~ 1.0
 		range_multiplier = 0.25
@@ -363,7 +363,7 @@
 			feather_falling_prevents_breaking = true
 
 	[tools.wrench]
-		enabled = true
+		enabled = false
 		#Allows wrenches to bypass a block interaction action prioritizing their own when on said hand
 		#Allowed Values: MAIN_HAND, OFF_HAND, BOTH, NONE
 		bypass_when_on = "MAIN_HAND"
@@ -377,7 +377,7 @@
 		exclusive_to_crossbows = false
 
 	[tools.flute]
-		enabled = true
+		enabled = false
 		#Radius in which an unbound flute will search pets
 		#Range: 0 ~ 500
 		unbound_radius = 64
