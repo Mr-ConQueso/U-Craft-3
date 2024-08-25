@@ -1,0 +1,7 @@
+{
+  "cos.key.opencosarmorinventory": "",
+  "cos.gui.buttoncos": "",
+  "cos.gui.buttonnormal": "",
+  "cos.command.clearcosarmor.success.single": "Se ha eliminado %s objetos en el inventario de armadura cosmética del jugador %s",
+  "cos.command.clearcosarmor.success.multiple": "Se ha eliminado %s objetos en el inventario de armadura cosmética de %s jugadores"
+}
