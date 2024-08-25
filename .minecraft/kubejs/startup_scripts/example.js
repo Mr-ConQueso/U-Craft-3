@@ -40,4 +40,4 @@ StartupEvents.modifyCreativeTab('minecraft:redstone_blocks', event => {
 })
 */
 
-console.info('Hello, World! (Loaded startup scripts)')
+console.info('Loaded Kube.js startup scripts)')

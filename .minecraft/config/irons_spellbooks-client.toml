@@ -24,7 +24,7 @@
 		#Used to adjust mana bar's position (11 is one full hunger bar up).
 		manaBarXOffset = 0
 		manaBarYOffset = 0
-		manaBarTextVisible = true
+		manaBarTextVisible = false
 		#Allowed Values: Hunger, XP, Center, TopLeft, TopRight, BottomLeft, BottomRight
 		manaBarAnchor = "Hunger"
 		manaTextXOffset = 0
