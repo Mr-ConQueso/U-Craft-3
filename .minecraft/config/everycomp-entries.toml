@@ -28,10 +28,6 @@
 		[types.wood_type.ars_nouveau]
 			archwood = true
 
-		[types.wood_type.upgrade_aquatic]
-			driftwood = true
-			river = true
-
 		[types.wood_type.cataclysm]
 			chorus = true
 
@@ -72,6 +68,10 @@
 		[types.wood_type.beachparty]
 			palm = true
 
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomesoplenty]
@@ -110,9 +110,6 @@
 			purple_archwood = true
 			red_archwood = true
 
-		[types.leaves_type.upgrade_aquatic]
-			river = true
-
 		[types.leaves_type.endlessbiomes]
 			penumbral = true
 			glowing_penumbral = true
@@ -133,6 +130,9 @@
 
 		[types.leaves_type.beachparty]
 			palm = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
 
 	[types.cake]
 
