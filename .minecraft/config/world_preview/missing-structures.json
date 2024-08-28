@@ -275,9 +275,5 @@
   "valhelsia_structures:spawner_dungeon",
   "valhelsia_structures:spawner_room",
   "valhelsia_structures:tower_ruin",
-  "valhelsia_structures:witch_hut",
-  "verdantvibes:fairy_circle",
-  "verdantvibes:oak_overgrown_hut",
-  "verdantvibes:palm_campfire",
-  "verdantvibes:spruce_overgrown_hut"
+  "valhelsia_structures:witch_hut"
 ]

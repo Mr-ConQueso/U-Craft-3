@@ -9,8 +9,7 @@
   "samplerType": "AUTO",
   "dimension": {
     "f_135804_": "minecraft",
-    "f_135805_": "overworld",
-    "cachedString": "minecraft:overworld"
+    "f_135805_": "overworld"
   },
   "hideAllStructures": false
 }
