@@ -1,6 +1,8 @@
 {
   "DO_NOT_CHANGE_IT": 1,
-  "selectedModpack": "",
-  "installedModpacks": {},
+  "selectedModpack": "U-Craft 3",
+  "installedModpacks": {
+    "U-Craft 3": "http://[0:0:0:0:0:0:0:1]:25565/automodpack/"
+  },
   "selfUpdater": false
 }

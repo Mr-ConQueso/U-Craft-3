@@ -62,7 +62,7 @@
 	"Metal Buttons" = true
 	"Obsidian Plate" = true
 	"Pistons Move Tile Entities" = true
-	"Redstone Randomizer" = true
+	"Redstone Randomizer" = false
 
 	[automation.crafter]
 		#Setting this to true will change the Crafter to use Emi's original design instead of Mojang's.
@@ -116,7 +116,7 @@
 	"Gold Bars" = true
 	Grate = true
 	Hedges = true
-	"Hollow Logs" = true
+	"Hollow Logs" = false
 	"Industrial Palette" = true
 	"Japanese Palette" = true
 	"Leaf Carpet" = true
@@ -127,7 +127,7 @@
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
 	"Raw Metal Bricks" = true
-	Rope = true
+	Rope = false
 	"Shear Vines" = true
 	Shingles = true
 	"Soul Sandstone" = true
@@ -524,7 +524,7 @@
 	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
-	"Gold Tools Have Fortune" = true
+	"Gold Tools Have Fortune" = false
 	"Grab Chickens" = true
 	"Hoe Harvesting" = true
 	"Horses Swim" = true
@@ -1559,11 +1559,11 @@
 	"Chest Searching" = true
 	"Elytra Indicator" = true
 	"Greener Grass" = true
-	"Improved Tooltips" = true
+	"Improved Tooltips" = false
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = false
 	"Soul Candles" = true
-	"Usage Ticker" = true
+	"Usage Ticker" = false
 	"Uses For Curses" = false
 	"Variant Animal Textures" = true
 	"Wool Shuts Up Minecarts" = true

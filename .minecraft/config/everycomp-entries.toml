@@ -302,18 +302,6 @@
 			horse_fence = true
 			pyramid_gate = true
 
-		[entries.wood_type.mcwbridges]
-			bridge_pier = true
-			rope_bridge = true
-			log_bridge_middle = true
-			rope_bridge_stair = true
-			log_bridge_stair = true
-			rail_bridge = true
-
-		[entries.wood_type.mcwlights]
-			tiki_torch = true
-			soul_tiki_torch = true
-
 		[entries.wood_type.storagedrawers]
 			full_drawers_2 = true
 			full_drawers_4 = true

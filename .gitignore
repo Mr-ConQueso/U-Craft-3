@@ -44,3 +44,4 @@ patches/
 !.minecraft/saves/U-Testing/*
 
 *.log
+/.minecraft/mods/.index

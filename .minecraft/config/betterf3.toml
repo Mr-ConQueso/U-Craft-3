@@ -1,39 +1,150 @@
 
 [general]
 	disable_mod = false
-	hide_bossbar = true
-	shadow_text = true
 	auto_start = false
-	animationSpeed = 1.0
-	hide_debug_crosshair = false
-	background_color = 1867534416
 	space_modules = false
-	always_show_profiler = false
-	animations = true
+	shadow_text = true
+	animations = false
+	animationSpeed = 1.0
 	fontScale = 1.0
+	background_color = 1867534416
+	hide_debug_crosshair = false
 	hide_sidebar = true
+	hide_bossbar = true
+	always_show_profiler = false
 	always_show_tps = false
 
-[[modules_right]]
-	memory_color_toggle = true
-	time_format = "HH:mm:ss"
-	name = "system"
-	name_color = 16755200
+[[modules_left]]
+	name = "minecraft"
+	name_color = 10506797
+	value_color = 43520
+	enabled = true
+
+	[modules_left.lines]
+		minecraft = true
+
+[[modules_left]]
+	name = "fps"
+	color_high = 5635925
+	color_med = 16777045
+	color_low = 16733525
+	enabled = true
+
+	[modules_left.lines]
+		fps = true
+
+[[modules_left]]
+	name = "coords"
+	name_color = 16733525
+	color_x = 16733525
+	color_y = 5635925
+	color_z = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		player_coords = true
+		block_coords = false
+		chunk_relative_coords = false
+		chunk_coords = false
+
+[[modules_left]]
+	name = "location"
+	name_color = 43520
 	value_color = 5636095
 	enabled = true
 
+	[modules_left.lines]
+		dimension = true
+		facing = true
+		rotation = true
+		light = true
+		light_server = true
+		highest_block = false
+		highest_block_server = false
+		biome = true
+		local_difficulty = false
+		day_ticks = false
+		days_played = false
+		slime_chunk = true
+
+[[modules_left]]
+	name = "chunks"
+	name_color = 43775
+	value_color = 16777045
+	chunks_enabled_color = 5635925
+	chunks_disabled_color = 16733525
+	total_chunks_color = 16755200
+	enabled = true
+
+	[modules_left.lines]
+		chunk_sections = false
+		chunk_culling = false
+		pending_chunks = false
+		pending_uploads = false
+		available_buffers = false
+		client_chunk_cache = false
+		loaded_chunks = true
+		loaded_chunks_server = true
+		forceloaded_chunks = false
+		spawn_chunks = true
+		chunk_file = true
+
+[[modules_left]]
+	name = "entity"
+	name_color = 16733525
+	value_color = 16777045
+	total_entities_color = 16755200
+	enabled = true
+
+	[modules_left.lines]
+		particles = true
+		entities = true
+		monster = true
+		creature = true
+		ambient = true
+		axolotls = false
+		underground_water_creature = false
+		water_creature = true
+		water_ambient = true
+		misc = true
+		cave_creature = true
+		deep_sea_creature = true
+		glares = true
+		rascals = true
+
+[[modules_left]]
+	name = "help"
+	name_color = 16645526
+	value_color = 5636095
+	enabled_color = 5635925
+	disabled_color = 16733525
+	enabled = true
+
+	[modules_left.lines]
+		pie_graph = true
+		fps_tps = true
+		help = true
+
+[[modules_right]]
+	name = "system"
+	name_color = 16755200
+	value_color = 5636095
+	memory_color_toggle = true
+	time_format = "HH:mm:ss"
+	enabled = true
+
 	[modules_right.lines]
-		opengl_version = false
-		allocation_rate = false
-		display = false
+		time = false
 		java_version = true
-		gpu_driver = true
 		memory_usage = true
+		allocation_rate = false
 		allocated_memory = true
 		cpu = true
-		gpu_utilization = true
-		time = false
+		display = false
 		gpu = true
+		gpu_utilization = true
+		opengl_version = false
+		gpu_driver = true
 
 [[modules_right]]
 	name = "server"
@@ -47,20 +158,20 @@
 		packets_received = true
 
 [[modules_right]]
-	maximum_color = 43690
 	name = "sound"
 	name_color = 16755200
 	value_color = 5636095
+	maximum_color = 43690
 	enabled = true
 
 	[modules_right.lines]
-		ambient_sounds = true
 		sounds = true
+		ambient_sounds = true
 		mood = true
 
 [[modules_right]]
-	empty_lines = 1
 	name = "empty"
+	empty_lines = 1
 	enabled = true
 
 	[modules_right.lines]
@@ -73,124 +184,15 @@
 	enabled = true
 
 	[modules_right.lines]
-		id_fluid = true
-		fluid_tags = true
-		block_states = true
 		targeted_block = true
-		block_tags = true
 		id_block = true
+		block_states = true
+		block_tags = true
 		nothing = true
-		nothing2 = true
 		targeted_fluid = true
-		targeted_entity = true
+		id_fluid = true
 		fluid_states = true
-
-[[modules_left]]
-	name = "minecraft"
-	name_color = 10506797
-	value_color = 43520
-	enabled = true
-
-	[modules_left.lines]
-		minecraft = true
-
-[[modules_left]]
-	color_high = 5635925
-	color_med = 16777045
-	name = "fps"
-	enabled = true
-	color_low = 16733525
-
-	[modules_left.lines]
-		fps = true
-
-[[modules_left]]
-	color_x = 16733525
-	color_y = 5635925
-	color_z = 5636095
-	name = "coords"
-	name_color = 16733525
-	enabled = true
-
-	[modules_left.lines]
-		chunk_coords = false
-		player_coords = true
-		block_coords = false
-		chunk_relative_coords = false
-
-[[modules_left]]
-	name = "location"
-	name_color = 43520
-	value_color = 5636095
-	enabled = true
-
-	[modules_left.lines]
-		light = true
-		biome = true
-		rotation = true
-		facing = true
-		slime_chunk = true
-		local_difficulty = false
-		day_ticks = false
-		days_played = false
-		dimension = true
-		highest_block = false
-		highest_block_server = false
-		light_server = true
-
-[[modules_left]]
-	name = "chunks"
-	chunks_disabled_color = 16733525
-	name_color = 43775
-	value_color = 16777045
-	total_chunks_color = 16755200
-	chunks_enabled_color = 5635925
-	enabled = true
-
-	[modules_left.lines]
-		chunk_file = true
-		available_buffers = false
-		loaded_chunks_server = true
-		forceloaded_chunks = false
-		chunk_culling = false
-		pending_uploads = false
-		pending_chunks = false
-		loaded_chunks = true
-		spawn_chunks = true
-		client_chunk_cache = false
-		chunk_sections = false
-
-[[modules_left]]
-	name = "entity"
-	name_color = 16733525
-	value_color = 16777045
-	total_entities_color = 16755200
-	enabled = true
-
-	[modules_left.lines]
-		deep_sea_creature = false
-		entities = true
-		water_creature = true
-		cave_creature = false
-		underground_water_creature = false
-		ambient = true
-		particles = true
-		axolotls = false
-		creature = true
-		water_ambient = true
-		monster = true
-		misc = true
-
-[[modules_left]]
-	enabled_color = 5635925
-	name = "help"
-	name_color = 16645526
-	value_color = 5636095
-	disabled_color = 16733525
-	enabled = true
-
-	[modules_left.lines]
-		help = true
-		pie_graph = true
-		fps_tps = true
+		fluid_tags = true
+		nothing2 = true
+		targeted_entity = true
 
