@@ -36,7 +36,7 @@
 		#Non Vanilla gamerule: 'axiomDoTrampleFarmland'
 		axiom_do_trample_farmland = true
 		#Whether the daylight cycle and moon phases progress.
-		do_daylight_cycle = true
+		do_daylight_cycle = false
 		#Whether fire should spread and naturally extinguish
 		do_fire_tick = true
 		#Whether vines can spread to other blocks. Cave vines, weeping vines, and twisting vines are not affected.
@@ -197,6 +197,10 @@
 		universal_anger = false
 		#Non Vanilla gamerule: 'zombiesinaBarrelSpawn'
 		zombiesina_barrel_spawn = true
+		#Non Vanilla gamerule: 'hunternibling'
+		hunternibling = true
+		#Non Vanilla gamerule: 'sunray'
+		sunray = true
 
 #Configs related to difficult changes
 [difficulty]

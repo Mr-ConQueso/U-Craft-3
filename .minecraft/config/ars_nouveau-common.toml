@@ -21,7 +21,7 @@
 	destructiveDiveBomb = false
 	#Archwood forest spawn weight
 	#Range: > 0
-	archwoodForest = 1
+	archwoodForest = 0
 	#How many inventories can lectern support per bookwyrm
 	#Range: > 1
 	bookwyrmLimit = 8
