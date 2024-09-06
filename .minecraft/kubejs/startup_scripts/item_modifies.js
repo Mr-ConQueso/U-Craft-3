@@ -1,6 +1,9 @@
 // priority: 0
 
 ItemEvents.modification(event => {
+
+    // ----- / Stackable Amounts / ----- //
+
     event.modify('minecraft:ender_pearl', item => {
       item.maxStackSize = 48
     })
@@ -50,6 +53,9 @@ ItemEvents.modification(event => {
         item.maxStackSize = 16
     })
 
+
+
+    // ----- / Unstackable Items / ----- //
 
     event.modify('waterballoon:balloon_bazooka', item => {
         item.maxStackSize = 1

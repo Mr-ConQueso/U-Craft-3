@@ -13,12 +13,12 @@
 	#Range: 0.0 ~ 1.0
 	cave_biome_spacing_randomness = 0.45
 	#Whether to warn users when a server starts if an incompatible generation mod is detected.
-	warn_generation_incompatibility = true
+	warn_generation_incompatibility = false
 
 [mob-spawning]
 	#Cave Creatures (All dinosaurs, raycats, etc) spawn at this frequency. Their cap is calculated by multiplying this number with the default mob cap for surface animals.
 	#Range: 0.0 ~ 10.0
-	cave_creature_spawn_count_modifier = 1.75
+	cave_creature_spawn_count_modifier = 2.25
 
 [mob-behavior]
 	#How many cpu cores big mobs(tremorzilla, atlatitan, grottoceratops etc) should utilize when pathing. Bigger number = less impact on TPS
