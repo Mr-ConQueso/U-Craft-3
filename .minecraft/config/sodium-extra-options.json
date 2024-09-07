@@ -14,7 +14,7 @@
     "block_break": true,
     "block_breaking": true,
     "other": {
-      "minecraft:effect": false
+      "minecraft:effect": true
     }
   },
   "detail_settings": {
@@ -55,9 +55,9 @@
     "cloud_distance": 100,
     "toasts": true,
     "advancement_toast": true,
-    "recipe_toast": false,
+    "recipe_toast": true,
     "system_toast": true,
-    "tutorial_toast": false,
+    "tutorial_toast": true,
     "instant_sneak": false,
     "prevent_shaders": false,
     "steady_debug_hud": true,

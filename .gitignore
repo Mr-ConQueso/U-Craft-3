@@ -45,3 +45,4 @@ patches/
 
 *.log
 /.minecraft/mods/.index
+/.minecraft/config/documents

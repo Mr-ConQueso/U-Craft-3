@@ -107,10 +107,6 @@
 		water_creature = true
 		water_ambient = true
 		misc = true
-		cave_creature = true
-		deep_sea_creature = true
-		glares = true
-		rascals = true
 
 [[modules_left]]
 	name = "help"

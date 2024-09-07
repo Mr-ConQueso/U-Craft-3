@@ -38,7 +38,7 @@ capabilities {
     # Right-click blocks to replace them with the held block
     replaceMode=false
     # Various useful interactions when right-clicking with your fist
-    tinker=true
+    tinker=false
     typeReplace=false
 }
 keybinds {

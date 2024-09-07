@@ -6,7 +6,7 @@
 		#Whether advancements should be announced in chat.
 		announce_advancements = true
 		#Whether command blocks should notify admins when they perform commands.
-		command_block_output = true
+		command_block_output = false
 		#Whether to log admin commands to server log.
 		log_admin_commands = true
 		#Whether the feedback from commands executed by a player should show up in chat. Also affects the default behavior of whether command blocks store their output text.
@@ -34,11 +34,11 @@
 		#Non Vanilla gamerule: 'axiomDoBlockGravity'
 		axiom_do_block_gravity = true
 		#Non Vanilla gamerule: 'axiomDoTrampleFarmland'
-		axiom_do_trample_farmland = true
+		axiom_do_trample_farmland = false
 		#Whether the daylight cycle and moon phases progress.
 		do_daylight_cycle = false
 		#Whether fire should spread and naturally extinguish
-		do_fire_tick = true
+		do_fire_tick = false
 		#Whether vines can spread to other blocks. Cave vines, weeping vines, and twisting vines are not affected.
 		do_vines_spread = true
 		#Whether the weather can change naturally. The /weather command can still change weather.
@@ -50,7 +50,7 @@
 		random_tick_speed = 3
 		#The maximum number of snow layers that can be accumulated on each block.
 		#Range: > 0
-		snow_accumulation_height = 1
+		snow_accumulation_height = 5
 		#Whether new sources of water are allowed to form.
 		water_source_conversion = true
 
@@ -58,7 +58,7 @@
 		#Non Vanilla gamerule: 'axiomPlayerInvulnerability'
 		axiom_player_invulnerability = false
 		#Non Vanilla gamerule: 'companion:alwaysTeleportHorses'
-		"companion:always_teleport_horses" = false
+		"companion:always_teleport_horses" = true
 		#Non Vanilla gamerule: 'companion:petFriendlyFire'
 		"companion:pet_friendly_fire" = true
 		#Whether the server should skip checking player speed when the player is wearing elytra. Often helps with jittering due to lag in multiplayer.
@@ -84,7 +84,7 @@
 		natural_regeneration = true
 		#What percentage of players must sleep to skip the night.
 		#Range: > 0
-		players_sleeping_percentage = 100
+		players_sleeping_percentage = 60
 		#Non Vanilla gamerule: 'soulStratificationEffect'
 		soul_stratification_effect = true
 		#The number of blocks outward from the world spawn coordinates that a player spawns in when first joining a server or when dying without a personal spawnpoint. Has no effect on servers where the default game mode is Adventure.
@@ -172,7 +172,7 @@
 		#Range: > 0
 		command_modification_block_limit = 32768
 		#Whether certain sound events are heard by all players regardless of location.
-		global_sound_events = true
+		global_sound_events = false
 		#The maximum length of a chain of commands that can be executed during one tick. Applies to command blocks and functions.
 		#Range: > 0
 		max_command_chain_length = 65536
@@ -206,16 +206,16 @@
 [difficulty]
 	#If the difficulty should be set on world load
 	#If true difficulty changes in game will also be saved to the config
-	set_difficulty = false
+	set_difficulty = true
 	#The difficulty to set if 'set_difficulty' is true, respects if the difficulty is locked or not for the world
 	#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
-	difficulty = "NORMAL"
+	difficulty = "HARD"
 	#If true the world will be set to hardcore, difficultly will be set to hard independent to the 'difficulty' config
 	#Setting it to hardcore auto locks the difficulty while this is true
 	hardcore = false
 	#If a world's difficulty should be locked when loaded, if world already is locked it can't be changed
 	#If the global world difficulty is enabled it's set first
-	lock_difficulty = false
+	lock_difficulty = true
 
 #A collection of misc configs
 [misc]

@@ -1,3 +1,70 @@
 {
-  "schema_version": "2"
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "fabric",
+    "server",
+    "world",
+    "create_central_kitchen:create_styled",
+    "minecraft_bricks",
+    "optifine_support",
+    "railways:green_signals",
+    "Moonlight Mods Dynamic Assets",
+    "default_seamless"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "vanilla": {
+      "title": "\"Vanilla Assets\"",
+      "description": "\"Resource pack from Minecraft\""
+    },
+    "file/U-Craft-3": {
+      "title": "\"U-Craft 3\"",
+      "description": "\"All U-Craft Resources\"",
+      "default_position": "TOP",
+      "fixed_position": true
+    },
+    "hidden_unused": [
+      "programmer_art",
+      "high_contrast",
+      "better_leaves",
+      "builtin/builtin_resource_packs/legacy_dead_king_resource_pack",
+      "builtin/crittersandcompanions",
+      "bushy_leaves",
+      "classic_icons",
+      "create:legacy_copper",
+      "green_stove",
+      "midnightcontrols:legacy",
+      "minecraft_bricks",
+      "railways:legacy_palettes",
+      "railways:legacy_semaphore",
+      "supplementaries:darker_ropes",
+      "white_icons"
+    ],
+    "hidden_required": [
+      "vanilla",
+      "mod_resources",
+      "fabric",
+      "server",
+      "world",
+      "create_central_kitchen:create_styled",
+      "minecraft_bricks",
+      "optifine_support",
+      "railways:green_signals",
+      "default_seamless",
+      "Moonlight Mods Dynamic Assets"
+    ],
+    "$$hidden_unused": {
+      "hidden": true,
+      "required": false
+    },
+    "$$hidden_required": {
+      "hidden": true,
+      "required": true
+    }
+  }
 }
