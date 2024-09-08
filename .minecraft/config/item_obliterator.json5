@@ -239,7 +239,10 @@
     "oceansdelight:elder_guardian_slice",
     "oceansdelight:elder_guardian_slab",
     "alexscavesdelight:cooked_heart_of_iron",
-    "create_things_and_misc:sticky_boots_boots"
+    "create_things_and_misc:sticky_boots_boots",
+    "eeeabsmobs:tester_egg",
+    "eeeabsmobs:animation_controller",
+    "crittersandcompanions:clam"
   ],
   /*
     "refurbished_furniture:cheese_sandwich",

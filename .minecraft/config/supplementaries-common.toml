@@ -327,19 +327,19 @@
 	altimeter = true
 
 	[tools.quiver]
-		enabled = true
+		enabled = false
 		#Allows using a quiver without being slowed down
-		use_without_slow = true
+		use_without_slow = false
 		#Arrow stacks that can fit inside a quiver. Requires reboot
 		#Range: 1 ~ 9
-		slots = 6
+		slots = 1
 		#Increase this number to alter the probability for a Skeleton with quiver to spawn. Note that this also depends on local difficulty so you wont ever see them on easy and very rarely on normal. Similar logic to equipment
 		#Range: 0.0 ~ 1.0
-		quiver_skeleton_spawn_chance = 0.03
+		quiver_skeleton_spawn_chance = 0.0
 		#Allows quiver to only be used when in offhand or in curio slot
 		only_works_in_curio = false
 		#Arrows you pickup will try to go in a quiver if available provided it has some arrow of the same type
-		quiver_pickup = true
+		quiver_pickup = false
 
 	[tools.slice_map]
 		enabled = false

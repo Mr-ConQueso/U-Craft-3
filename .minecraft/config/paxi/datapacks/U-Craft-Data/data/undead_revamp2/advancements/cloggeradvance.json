@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "undead_revamp2:customicontwo"
+    },
+    "title": {
+      "translate": "advancements.cloggeradvance.title"
+    },
+    "description": {
+      "translate": "advancements.cloggeradvance.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "cloggeradvance": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "undead_revamp2:defeatundeadbosses"
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "undead_revamp2:customicon"
+    },
+    "title": {
+      "translate": "advancements.sugarcoat.title"
+    },
+    "description": {
+      "translate": "advancements.sugarcoat.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "sugarcoat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "undead_revamp2:theundeadchallenges"
+}

@@ -115,7 +115,7 @@
 		#Whether phantoms can spawn in the nighttime.
 		do_insomnia = true
 		#Whether mobs should naturally spawn. Does not affect monster spawners.
-		do_mob_spawning = true
+		do_mob_spawning = false
 		#Whether patrols can spawn.
 		do_patrol_spawning = true
 		#Whether wandering traders can spawn.

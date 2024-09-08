@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:light"
+    },
+    "title": {
+      "translate": "advancements.allbosseskilled.title"
+    },
+    "description": {
+      "translate": "advancements.allbosseskilled.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "allbosseskilled": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "undead_revamp2:theundeadchallenges"
+}

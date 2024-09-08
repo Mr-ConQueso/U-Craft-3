@@ -46,3 +46,4 @@ patches/
 *.log
 /.minecraft/mods/.index
 /.minecraft/config/documents
+/.minecraft/backups

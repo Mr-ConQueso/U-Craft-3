@@ -137,7 +137,7 @@ _version = 2
 			updateBranch = "AUTO"
 			#
 			# Automatically check for updates on game launch?
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			#
 			# Should Distant Horizons silently, automatically download and install new versions?
 			enableSilentUpdates = false
@@ -282,11 +282,11 @@ _version = 2
 			#
 			# If enabled, a chat message will be displayed when a replay is started 
 			# giving some basic information about how DH will function.
-			showReplayWarningOnStartup = true
+			showReplayWarningOnStartup = false
 			#
 			# If enabled, a chat message will be displayed when a potentially problematic 
 			# mod is installed alongside DH.
-			showModCompatibilityWarningsOnStartup = true
+			showModCompatibilityWarningsOnStartup = false
 
 		[client.advanced.debugging]
 			#

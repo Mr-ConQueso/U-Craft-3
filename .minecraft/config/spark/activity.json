@@ -5,6 +5,19 @@
       "name": "MrConQueso",
       "uniqueId": "178ce2cb-5682-4cfd-bd93-e656cf23ed41"
     },
+    "time": 1725816697788,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SwqDVonhmk"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MrConQueso",
+      "uniqueId": "178ce2cb-5682-4cfd-bd93-e656cf23ed41"
+    },
     "time": 1724371112621,
     "type": "Profiler",
     "data": {
