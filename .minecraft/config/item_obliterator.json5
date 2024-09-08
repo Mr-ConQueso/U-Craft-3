@@ -237,7 +237,9 @@
     "oceansdelight:elder_guardian_roll",
     "oceansdelight:cooked_elder_guardian_slice",
     "oceansdelight:elder_guardian_slice",
-    "oceansdelight:elder_guardian_slab"
+    "oceansdelight:elder_guardian_slab",
+    "alexscavesdelight:cooked_heart_of_iron",
+    "create_things_and_misc:sticky_boots_boots"
   ],
   /*
     "refurbished_furniture:cheese_sandwich",

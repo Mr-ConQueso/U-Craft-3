@@ -1,0 +1,19 @@
+{
+  "general": {
+    "activity": true
+  },
+  "differential": {
+    "chainLength": 0,
+    "lastBackup": 0,
+    "hashList": {
+      "hashes": {}
+    }
+  },
+  "incremental": {
+    "chainLength": 0,
+    "hashList": {
+      "hashes": {}
+    },
+    "lastBackup": 0
+  }
+}

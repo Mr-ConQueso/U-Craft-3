@@ -13,16 +13,16 @@ configVersion = 7
 	animal = true
 	#Automatically go into third person when flying an elytra?
 	#Default: true
-	elytra = true
+	elytra = false
 	#Automatically go into third person when doing the swimming animation?
 	#Default: false
 	swim = false
 	#If 'true', the customPattern will be used, and riding anything matching it will toggle third person.
 	#Default: false
-	custom = true
+	custom = false
 	#If 'true', the ignorePattern will be used, and anything matching it will be ignored.
 	#Default: false
-	useIgnore = false
+	useIgnore = true
 
 #Scenario configuration.
 #Has no effect if the corresponding scenario is turned off.
@@ -48,7 +48,7 @@ configVersion = 7
 	customPattern = "^minecraft:(cow|chicken)$"
 	#Entity IDs that match this regular expression will be ignored if the 'useIgnore' option is enabled.
 	#Default: ^examplemod:example$
-	ignorePattern = "^examplemod:example$"
+	ignorePattern = "^minecraft:(horse|donkey)$"
 
 #Automatically exiting from third person.
 [restoration]
