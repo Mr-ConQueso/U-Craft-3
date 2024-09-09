@@ -100,6 +100,23 @@ ServerEvents.recipes(event => {
     'rpg_better_elder_guardian_1201:raw_elder_meat'
   )
 
+  // ----- / Butchery / ----- //
+
+  event.remove({ output: 'butcher:sulfuricacid' })
+
+  event.shapeless('3x butcher:sulfuricacid', [
+    'alexscaves:acid_bucket',
+    'minecraft:glass_bottle',
+    '2x alexscaves:sulfur_dust'
+  ])
+
+  event.remove({ output: 'butcher:oil' })
+
+  event.shapeless('3x butcher:oil', [
+    'createdieselgenerators:plant_oil_bucket',
+    '3x minecraft:glass_bottle',
+  ])
+
 
     console.log('All recipes executed')
   })

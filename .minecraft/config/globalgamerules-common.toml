@@ -36,7 +36,7 @@
 		#Non Vanilla gamerule: 'axiomDoTrampleFarmland'
 		axiom_do_trample_farmland = false
 		#Whether the daylight cycle and moon phases progress.
-		do_daylight_cycle = false
+		do_daylight_cycle = true
 		#Whether fire should spread and naturally extinguish
 		do_fire_tick = false
 		#Whether vines can spread to other blocks. Cave vines, weeping vines, and twisting vines are not affected.
@@ -79,7 +79,7 @@
 		#Range: > 0
 		jaws_damage_limit = 666
 		#Whether the player should keep items and experience in their inventory after death .
-		keep_inventory = false
+		keep_inventory = true
 		#Whether the player can regenerate health naturally if their hunger is full enough (doesn't affect external healing, such as golden apples, the Regeneration effect, etc.)
 		natural_regeneration = true
 		#What percentage of players must sleep to skip the night.
@@ -115,7 +115,7 @@
 		#Whether phantoms can spawn in the nighttime.
 		do_insomnia = true
 		#Whether mobs should naturally spawn. Does not affect monster spawners.
-		do_mob_spawning = false
+		do_mob_spawning = true
 		#Whether patrols can spawn.
 		do_patrol_spawning = true
 		#Whether wandering traders can spawn.
@@ -201,6 +201,8 @@
 		hunternibling = true
 		#Non Vanilla gamerule: 'sunray'
 		sunray = true
+		#Non Vanilla gamerule: 'oneOfUsMobs'
+		one_of_us_mobs = false
 
 #Configs related to difficult changes
 [difficulty]

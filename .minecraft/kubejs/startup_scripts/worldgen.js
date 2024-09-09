@@ -4,7 +4,7 @@ WorldgenEvents.remove( event => {
   
     event.removeOres(props => {
 
-      props.blocks = ['undead_revamp2:bostroxore']
+      props.blocks = ['undead_revamp2:bostroxore', 'butcher:sulfurore']
       
     })
   })
