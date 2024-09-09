@@ -1,8 +1,32 @@
 type = user_variables
 
 variable {
+  name = bluemap_website
+  value = https://bluemap.cheesylabs.net
+  reset_on_launch = false
+}
+
+variable {
+  name = trainmap_website
+  value = https://trainmap.cheesylabs.net
+  reset_on_launch = false
+}
+
+variable {
   name = u_craft_ip
   value = u-craft.cheesylabs.net
+  reset_on_launch = false
+}
+
+variable {
+  name = version
+  value = beta-8.6
+  reset_on_launch = false
+}
+
+variable {
+  name = plan_website
+  value = https://plan.cheesylabs.net
   reset_on_launch = false
 }
 
