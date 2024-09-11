@@ -1,19 +1,4 @@
 {
-  "display": {
-    "icon": {
-      "item": "undead_revamp2:blockofbostrox"
-    },
-    "title": {
-      "translate": "advancements.oneskelly.title"
-    },
-    "description": {
-      "translate": "advancements.oneskelly.descr"
-    },
-    "frame": "challenge",
-    "show_toast": false,
-    "announce_to_chat": false,
-    "hidden": true
-  },
   "criteria": {
     "oneskelly": {
       "trigger": "minecraft:inventory_changed",

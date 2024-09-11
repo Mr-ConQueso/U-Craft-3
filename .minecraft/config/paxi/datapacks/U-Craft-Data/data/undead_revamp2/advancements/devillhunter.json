@@ -1,19 +1,4 @@
 {
-  "display": {
-    "icon": {
-      "item": "undead_revamp2:chainsword"
-    },
-    "title": {
-      "translate": "advancements.devillhunter.title"
-    },
-    "description": {
-      "translate": "advancements.devillhunter.descr"
-    },
-    "frame": "challenge",
-    "show_toast": false,
-    "announce_to_chat": false,
-    "hidden": true
-  },
   "criteria": {
     "devillhunter": {
       "trigger": "minecraft:inventory_changed",

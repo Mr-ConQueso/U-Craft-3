@@ -1,19 +1,4 @@
 {
-  "display": {
-    "icon": {
-      "item": "undead_revamp2:beespheromones"
-    },
-    "title": {
-      "translate": "advancements.bizzifffzoffzee.title"
-    },
-    "description": {
-      "translate": "advancements.bizzifffzoffzee.descr"
-    },
-    "frame": "challenge",
-    "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
-  },
   "criteria": {
     "bizzifffzoffzee": {
       "trigger": "minecraft:impossible"

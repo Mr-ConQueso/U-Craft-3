@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "u_craft:#blood_bucket"
+    }
+  ],
+  "result": {
+    "item": "butcher:bloodsplatter_1",
+    "count": 4
+  }
+}

@@ -1,19 +1,4 @@
 {
-  "display": {
-    "icon": {
-      "item": "minecraft:cobblestone"
-    },
-    "title": {
-      "translate": "advancements.daddy.title"
-    },
-    "description": {
-      "translate": "advancements.daddy.descr"
-    },
-    "frame": "challenge",
-    "show_toast": false,
-    "announce_to_chat": false,
-    "hidden": true
-  },
   "criteria": {
     "daddy": {
       "trigger": "minecraft:impossible"

@@ -1,19 +1,4 @@
 {
-  "display": {
-    "icon": {
-      "item": "minecraft:skeleton_skull"
-    },
-    "title": {
-      "translate": "advancements.nowhowdo_iconfigurethiscrap.title"
-    },
-    "description": {
-      "translate": "advancements.nowhowdo_iconfigurethiscrap.descr"
-    },
-    "frame": "challenge",
-    "show_toast": false,
-    "announce_to_chat": false,
-    "hidden": true
-  },
   "criteria": {
     "nowhowdo_iconfigurethiscrap": {
       "trigger": "minecraft:impossible"

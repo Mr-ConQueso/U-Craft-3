@@ -290,7 +290,22 @@
     "butcher:crushedflowers",
     "ends_delight:dragon_tooth_knife",
     "ends_delight:dragon_tooth",
-    "ends_delight:non_hatchable_dragon_egg"
+    "ends_delight:non_hatchable_dragon_egg",
+    "undead_revamp2:deadclogger_spawn_egg",
+    "undead_revamp2:invisiblebidy_spawn_egg",
+    "cataclysm:deepling_priest_spawn_egg",
+    "cataclysm:deepling_brute_spawn_egg",
+    "cataclysm:deepling_spawn_egg",
+    "cataclysm:deepling_warlock_spawn_egg",
+    "cataclysm:deepling_angler_spawn_egg",
+    "minecraft:recovery_compass",
+    "etcetera:wrench",
+    "mowziesmobs:naga_fang_dagger",
+    "mowziesmobs:naga_fang",
+    "mowziesmobs:naga_spawn_egg",
+    "mowziesdelight:nagi_tail",
+    "butcher:sulfurore",
+    "obscure_api:astral_dust"
   ],
   /*
     "refurbished_furniture:cheese_sandwich",

@@ -12,7 +12,8 @@
     "optifine_support",
     "railways:green_signals",
     "Moonlight Mods Dynamic Assets",
-    "default_seamless"
+    "default_seamless",
+    "file/U-Craft-3"
   ],
   "default_overrides": {
     "force_compatible": true

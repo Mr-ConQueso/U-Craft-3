@@ -1,19 +1,4 @@
 {
-  "display": {
-    "icon": {
-      "item": "undead_revamp2:arapoholiaspray"
-    },
-    "title": {
-      "translate": "advancements.getitoffme.title"
-    },
-    "description": {
-      "translate": "advancements.getitoffme.descr"
-    },
-    "frame": "challenge",
-    "show_toast": false,
-    "announce_to_chat": false,
-    "hidden": true
-  },
   "criteria": {
     "getitoffme": {
       "trigger": "minecraft:impossible"

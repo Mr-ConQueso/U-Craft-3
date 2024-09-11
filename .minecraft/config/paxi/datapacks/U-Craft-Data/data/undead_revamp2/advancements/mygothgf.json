@@ -1,19 +1,4 @@
 {
-  "display": {
-    "icon": {
-      "item": "minecraft:player_head"
-    },
-    "title": {
-      "translate": "advancements.mygothgf.title"
-    },
-    "description": {
-      "translate": "advancements.mygothgf.descr"
-    },
-    "frame": "challenge",
-    "show_toast": false,
-    "announce_to_chat": false,
-    "hidden": true
-  },
   "criteria": {
     "mygothgf": {
       "trigger": "minecraft:impossible"
