@@ -1,0 +1,14 @@
+{
+    "balancedflight.ponder.flight_anchor.header": "Vuelo motorizado con fuerza rotacional",
+    "balancedflight.ponder.flight_anchor.text_1": "El ancla de vuelo requiere una inmensa cantidad de energía para funcionar",
+    "balancedflight.ponder.flight_anchor.text_2": "Por cada rpm, podrás volar un bloque alrededor del ancla.",
+    "balancedflight.ponder.flight_anchor.text_3": "las velocidades más altas cubren una superficie mucho mayor.",
+    "balancedflight.ponder.tag.flight_anchor": "Ancla de vuelo",
+    "balancedflight.ponder.tag.flight_anchor.description": "Vuelo motorizado con fuerza rotacional",
+    "block.balancedflight.flight_anchor": "Ancla de vuelo",
+    "curios.identifier.flight_ring": "Anillo de vuelo",
+    "item.balancedflight.ascended_flight_ring": "Anillo de vuelo ascendido",
+    "itemGroup.balancedflight.base": "Create: Balanced Flight",
+    "tooltip.balancedflight.ascended_flight_ring": "Un anillo dorado increíblemente denso, y aun así, permite volar a cualquier lugar.",
+    "tooltip.balancedflight.flight_anchor": "Permite volar en un radio de 25 bloques. solo funciona en el mundo superior."
+}

@@ -1,0 +1,22 @@
+{
+    "item.alexsmobsinteraction.swatter": "Matamoscas",
+    "alexsmobsinteraction.itemTabalexsmobsinteraction": "Interacción de animales",
+    "alexsmobsinteraction.potion.skreeching": "Tu último grito",
+    "effect.alexsmobsinteraction.skreeching.description": "Causa que un warden aparezca cuando el efecto se desvanece.",
+    "item.minecraft.splash_potion.effect.skreeching": "Poción de salpicadura de gritos",
+    "item.minecraft.tipped_arrow.effect.skreeching": "Flecha de gritos",
+    "item.minecraft.lingering_potion.effect.skreeching": "Poción persistente de gritos",
+    "item.minecraft.potion.effect.skreeching": "Poción de gritos",
+    "alexsmobsinteraction.potion.gusting": "Ráfagas",
+    "effect.alexsmobsinteraction.gusting.description": "Inmune a la afectación con ráfagas y genera ráfagas simultáneamente alrededor del jugador",
+    "item.minecraft.splash_potion.effect.gusting": "Poción de salpicadura de ráfagas",
+    "item.minecraft.tipped_arrow.effect.gusting": "Flecha de ráfaga",
+    "item.minecraft.lingering_potion.effect.gusting": "Poción persistente de ráfagas",
+    "item.minecraft.potion.effect.gusting": "Poción de ráfagas",
+    "alexsmobsinteraction.potion.long_gusting": "Ráfagas",
+    "effect.alexsmobsinteraction.long_gusting.description": "Inmune a la afectación con ráfagas y genera ráfagas simultáneamente alrededor del jugador",
+    "item.minecraft.splash_potion.effect.long_gusting": "Poción de salpicadura de ráfaga",
+    "item.minecraft.tipped_arrow.effect.long_gusting": "Flecha de ráfaga",
+    "item.minecraft.lingering_potion.effect.long_gusting": "Poción persistente de ráfagas",
+    "item.minecraft.potion.effect.long_gusting": "Poción de soplo"
+}

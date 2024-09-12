@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:blood_bucket",
+    "butcher:blood_liquid_bucket",
+    "create_wizardry:blood_bucket"
+  ]
+}

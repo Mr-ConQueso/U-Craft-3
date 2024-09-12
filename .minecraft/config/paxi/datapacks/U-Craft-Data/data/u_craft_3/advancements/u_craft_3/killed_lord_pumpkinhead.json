@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "born_in_chaos_v1:lord_pumpkinheads_hat_helmet"
+    },
+    "title": {
+      "translate": "advancement.u_craft_3.lord_pumpkinhead.title"
+    },
+    "description": {
+      "translate": "advancement.u_craft_3.lord_pumpkinhead.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:allay"
+        }
+      }
+    }
+  },
+  "sends_telemetry_event": false,
+  "parent": "u_craft_3:u_craft_3/bosses"
+}

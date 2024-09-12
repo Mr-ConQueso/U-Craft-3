@@ -1,0 +1,7 @@
+{
+    "advancedbackups.backup_starting": "¡inicio de la copia de seguridad!",
+    "advancedbackups.progress": "Copia de seguridad en curso: %1$s%%",
+    "advancedbackups.backup_failed": "¡la copia de seguridad ha fallado!  \nconsulta el registro para más información",
+    "advancedbackups.backup_finished": "¡copia de seguridad completa!",
+    "advancedbackups.backup_cancelled": "¡copia de seguridad cancelada!"
+}

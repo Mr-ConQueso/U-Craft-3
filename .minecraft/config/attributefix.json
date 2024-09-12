@@ -517,6 +517,28 @@
         "value": 1000000
       }
     },
+    "dawnera:dawnera.max_hunger": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "dawnera:dawnera.max_energy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "irons_spellbooks:ender_magic_resist": {
       "enabled": false,
       "min": {

@@ -1,0 +1,5 @@
+{
+    "block.ars_creo.starbuncle_wheel": "Rueda de carbuncle",
+    "ars_creo.page.starbuncle_wheel": "Genera fuerza de rotación para create. colocar un bloque de oro frente a la rueda aumentará las rpm.",
+    "ars_creo.page.behaviors": "Ars creo permite comportamientos especiales de dispositivos para bloques de ars nouveau, incluyendo torres de hechizo y tarros de fuente. torre de hechizo básica - lanza un hechizo en el dispositivo cuando se interactúa. torre de hechizo de temporizador - lanza un"
+}

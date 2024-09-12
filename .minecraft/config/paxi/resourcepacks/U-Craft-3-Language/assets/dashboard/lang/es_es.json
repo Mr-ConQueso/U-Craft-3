@@ -1,0 +1,18 @@
+{
+    "debug.weather.clear": "Tiempo: despejado",
+    "debug.weather.rain": "Tiempo: lluvia",
+    "debug.weather.thunder": "Tiempo: trueno",
+    "debug.weather.error": "No se puede abrir el cambiador de clima; sin permiso",
+    "debug.time.day": "Hora: día",
+    "debug.time.noon": "Hora: mediodía",
+    "debug.time.night": "Hora: noche",
+    "debug.time.midnight": "Hora: medianoche",
+    "debug.time.error": "No se puede abrir el cambiador de tiempo; sin permiso",
+    "debug.difficulty.peaceful": "Dificultad: pacífico",
+    "debug.difficulty.easy": "Dificultad: fácil",
+    "debug.difficulty.normal": "Dificultad: normal",
+    "debug.difficulty.hard": "Dificultad: difícil",
+    "debug.difficulty.error": "No se puede abrir el cambiador de dificultad; sin permiso",
+    "modmenu.summaryTranslation.dashboard": "Más menús como el conmutador de modos de juego.",
+    "modmenu.descriptionTranslation.dashboard": "El panel añade varios interruptores como el interruptor de modo de juego para otras cosas como el clima, la hora y la dificultad"
+}
