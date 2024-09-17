@@ -23,13 +23,13 @@
 	#King Hermit Spawn rate (0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
 	"King Hermit Spawnrate" = 1.0
 	#Mummy Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
-	"Mummy Spawnrate" = 1.0
+	"Mummy Spawnrate" = 0.0
 	#Sea Viper Egg Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
 	"Sea Viper Egg Spawnrate" = 1.0
 	#Yeti Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
-	"Yeti Spawnrate" = 1.0
+	"Yeti Spawnrate" = 0.0
 	#Pheonix Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
-	"Pheonix Spawnrate" = 1.0
+	"Pheonix Spawnrate" = 0.0
 	#Vile Gator Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
 	"Gator Spawnrate" = 1.0
 	#Bone Stalker Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)

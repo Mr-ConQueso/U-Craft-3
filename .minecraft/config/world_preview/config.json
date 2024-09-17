@@ -7,7 +7,7 @@
   "buildFullVertChunk": false,
   "backgroundSampleVertChunk": false,
   "sampleStructures": true,
-  "sampleHeightmap": false,
+  "sampleHeightmap": true,
   "sampleIntersections": false,
   "storeNoiseSamples": false,
   "heightmapMinY": 0,

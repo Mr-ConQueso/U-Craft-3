@@ -1,13 +1,13 @@
 {
   "display": {
     "icon": {
-      "item": "born_in_chaos_v1:lord_pumpkinheads_hat_helmet"
+      "item": "minecraft:dragon_egg"
     },
     "title": {
-      "translate": "advancement.u_craft_3.lord_pumpkinhead.title"
+      "translate": "advancement.u_craft_3.ender_dragon.title"
     },
     "description": {
-      "translate": "advancement.u_craft_3.lord_pumpkinhead.descr"
+      "translate": "advancement.u_craft_3.ender_dragon.descr"
     },
     "frame": "challenge",
     "show_toast": false,
@@ -19,7 +19,7 @@
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {
-          "type": "born_in_chaos_v1:lord_pumpkinhead"
+          "type": "minecraft:ender_dragon"
         }
       }
     }

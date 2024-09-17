@@ -305,7 +305,13 @@
     "mowziesmobs:naga_spawn_egg",
     "mowziesdelight:nagi_tail",
     "butcher:sulfurore",
-    "obscure_api:astral_dust"
+    "obscure_api:astral_dust",
+    "luminousworld:pheonix_spawn_egg",
+    "luminousworld:baby_pheonix_spawn_egg",
+    "luminousworld:pheonix_trophy",
+    "luminousworld:pheonix_feather",
+    "luminousworld:mummy_spawn_egg",
+    "luminousworld:mummy_trophy"
   ],
   /*
     "refurbished_furniture:cheese_sandwich",

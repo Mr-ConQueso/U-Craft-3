@@ -1,17 +1,17 @@
 {
   "display": {
     "icon": {
-      "item": "born_in_chaos_v1:lord_pumpkinheads_hat_helmet"
+      "item": "irons_spellbooks:blood_staff"
     },
     "title": {
-      "translate": "advancement.u_craft_3.lord_pumpkinhead.title"
+      "translate": "advancement.u_craft_3.dead_king.title"
     },
     "description": {
-      "translate": "advancement.u_craft_3.lord_pumpkinhead.descr"
+      "translate": "advancement.u_craft_3.dead_king.descr"
     },
     "frame": "challenge",
-    "show_toast": false,
-    "announce_to_chat": false,
+    "show_toast": true,
+    "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
@@ -19,7 +19,7 @@
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {
-          "type": "born_in_chaos_v1:lord_pumpkinhead"
+          "type": "irons_spellbooks:dead_king"
         }
       }
     }
