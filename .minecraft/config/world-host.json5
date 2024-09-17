@@ -1,6 +1,6 @@
 {
 	serverIp: "world-host.jemnetworks.com",
-	onlineStatusLocation: "right",
+	onlineStatusLocation: "off",
 	enableFriends: true,
 	enableReconnectionToasts: false,
 	UPnP: false,
