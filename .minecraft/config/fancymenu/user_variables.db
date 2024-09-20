@@ -14,13 +14,13 @@ variable {
 
 variable {
   name = u_craft_ip
-  value = u-craft.cheesylabs.net
+  value = play.cheesylabs.net
   reset_on_launch = false
 }
 
 variable {
   name = version
-  value = beta-8.6
+  value = 1.1
   reset_on_launch = false
 }
 

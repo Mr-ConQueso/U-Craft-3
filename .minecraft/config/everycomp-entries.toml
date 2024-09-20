@@ -28,9 +28,6 @@
 		[types.wood_type.ars_nouveau]
 			archwood = true
 
-		[types.wood_type.cataclysm]
-			chorus = true
-
 		[types.wood_type.born_in_chaos_v1]
 			scorched = true
 
@@ -52,6 +49,20 @@
 			soulblight = true
 			whistlecane = true
 
+		[types.wood_type.valhelsia_structures]
+			lapidified_jungle = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.nethers_exoticism]
+			jabuticaba = true
+			ramboutan = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
 		[types.wood_type.luminous_nether]
 			mushroom = true
 			withered = true
@@ -62,19 +73,8 @@
 		[types.wood_type.meadow]
 			pine = true
 
-		[types.wood_type.valhelsia_structures]
-			lapidified_jungle = true
-
 		[types.wood_type.beachparty]
 			palm = true
-
-		[types.wood_type.upgrade_aquatic]
-			driftwood = true
-			river = true
-
-		[types.wood_type.nethers_exoticism]
-			jabuticaba = true
-			ramboutan = true
 
 	[types.leaves_type]
 
@@ -121,6 +121,12 @@
 		[types.leaves_type.luminousworld]
 			yellow_birch = true
 
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.nethers_exoticism]
+			jaboticaba = true
+
 		[types.leaves_type.luminous_nether]
 			ash = true
 
@@ -134,12 +140,6 @@
 
 		[types.leaves_type.beachparty]
 			palm = true
-
-		[types.leaves_type.upgrade_aquatic]
-			river = true
-
-		[types.leaves_type.nethers_exoticism]
-			jaboticaba = true
 
 #Disables specific entries
 [entries]

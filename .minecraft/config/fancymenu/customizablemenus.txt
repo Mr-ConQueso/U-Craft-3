@@ -9,12 +9,15 @@ net.minecraft.client.gui.screens.OptionsScreen {
 net.minecraft.client.gui.screens.achievement.StatsScreen {
 }
 
-net.minecraft.client.gui.screens.PauseScreen {
-}
-
 net.minecraft.client.gui.screens.ShareToLanScreen {
 }
 
 net.minecraft.client.gui.screens.controls.ControlsScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
+net.minecraft.client.gui.screens.SkinCustomizationScreen {
 }
 
