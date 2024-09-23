@@ -13,5 +13,5 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight
 	// Whether candlelight tomatoes should be enabled
 	"enable_candlelight_tomatoes": false,
 	// Whether candlelight tomatoes should be enabled
-	"enable_candlelight_lettuce": true
+	"enable_candlelight_lettuce": false
 }

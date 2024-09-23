@@ -1,0 +1,33 @@
+
+#Experimental Configs // ONLY CHANGE IF YOU KNOW WHAT YOU ARE DOING!!
+[experimental]
+
+	[experimental.augment]
+		#Chance to get a additional attribute in Wild Augment types || Default 0.2 = 20%
+		#Range: 0.01 ~ 1.0
+		wild_probability = 0.2
+		#Experience cost when assigning attributes in a Wild Augment || Default 250 xp points
+		#Range: > 50
+		wild_experience_cost = 250
+		#Augment stack value || Do not affect Wild Augment types!  || Default 8
+		#Range: > 1
+		augment_stacking = 8
+		# % of negative stat gets reduced after blessing a Mythic Augment || Default 0.8 = 20%
+		#Range: 0.1 ~ 1.0
+		blessing_reduction = 0.8
+
+	[experimental.archive_of_abyssal_secrets]
+		#Extra spell slots for Archive of abyssal secrets  || Default 6
+		#Range: > 4
+		extra_slots = 6
+
+	[experimental.chronicles_of_the_firelord]
+		#Extra spell slots for Chronicles of the firelord || Default 7
+		#Range: > 3
+		extra_slots = 7
+
+	[experimental.tome_of_abyssal_flora]
+		#Extra spell slots for Tome of Abyssal flora || Default 6
+		#Range: > 4
+		extra_slots = 6
+

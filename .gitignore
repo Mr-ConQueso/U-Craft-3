@@ -44,6 +44,9 @@ patches/
 !.minecraft/saves/U-Testing/*
 
 *.log
-/.minecraft/mods/.index
-/.minecraft/config/documents
-/.minecraft/backups
+.minecraft/mods/.index
+.minecraft/config/documents
+.minecraft/backups
+.minecraft/config/mca.json
+.minecraft/tts_cache
+/.minecraft/config/ItemLocks/nodes

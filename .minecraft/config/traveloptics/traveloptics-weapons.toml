@@ -1,0 +1,134 @@
+
+#Boss Themed Weapons
+[boss_weapons]
+
+	[boss_weapons.abyssal_tidecaller]
+		#Durability || Default 2500
+		#Range: > 1
+		durability = 2500
+		#Damage || Default 25.0
+		#Range: 0.0 ~ 100.0
+		damage = 25.0
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		attack_speed = -3.0
+		#Eldritch Spell Power || MULTIPLY_TOTAL || Default 0.15
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.15
+		#Ender Spell Power || MULTIPLY_TOTAL || Default 0.10
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.1
+
+	[boss_weapons.flames_of_eldritch]
+		#Durability || Default 3000
+		#Range: > 1
+		durability = 3000
+		#Damage || Default 21.0
+		#Range: 0.0 ~ 100.0
+		damage = 21.0
+		#Attack Speed || Default -2.6
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.6
+		#Eldritch Spell Power || MULTIPLY_TOTAL || Default 0.05
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.05
+		#Fire Spell Power || MULTIPLY_TOTAL || Default 0.20
+		#Range: 0.0 ~ 1.0
+		fire_spell_power = 0.2
+
+	[boss_weapons.harbingers_wrath]
+		#Durability || Default 2500
+		#Range: > 1
+		durability = 2500
+		#Damage || Default 21.0
+		#Range: 0.0 ~ 100.0
+		damage = 21.0
+		#Attack Speed || Default -2.8
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.8
+		#Lightning Spell Power || MULTIPLY_TOTAL || Default 0.20
+		#Range: 0.0 ~ 1.0
+		lightning_spell_power = 0.2
+
+	[boss_weapons.scourge_of_the_sands]
+		#Durability || Default 2500
+		#Range: > 1
+		durability = 2500
+		#Damage || Default 17.0
+		#Range: 0.0 ~ 100.0
+		damage = 17.0
+		#Attack Speed || Default -2.4
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.4
+		#Evocation Spell Power || MULTIPLY_TOTAL || Default 0.10
+		#Range: 0.0 ~ 1.0
+		evocation_spell_power = 0.1
+		#Nature Spell Power || MULTIPLY_TOTAL || Default 0.10
+		#Range: 0.0 ~ 1.0
+		nature_spell_power = 0.1
+
+	[boss_weapons.thorns_of_oblivion]
+		#Durability || Default 2000
+		#Range: > 1
+		durability = 2500
+		#Damage || Default 14.0
+		#Range: 0.0 ~ 100.0
+		damage = 17.0
+		#Attack Speed || Default -2.4
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.4
+		#Nature Spell Power || MULTIPLY_TOTAL || Default 0.05
+		#Range: 0.0 ~ 1.0
+		nature_spell_power = 0.15
+		#Ender Spell Power || MULTIPLY_TOTAL || Default 0.05
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.15
+
+#General Weapon Configs
+[weapons]
+
+	[weapons.blazegrip_scimitar]
+		#Durability || Default 2000
+		#Range: > 1
+		durability = 2000
+		#Damage || Default 19.0
+		#Range: 0.0 ~ 100.0
+		damage = 19.0
+		#Attack Speed || Default -2.8
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.8
+		#Fire Damage || ADDITION || Default 2.0
+		#Range: 0.0 ~ 10.0
+		fire_damage = 2.0
+		#Fire Spell Power || MULTIPLY_TOTAL || Default 0.10
+		#Range: 0.0 ~ 1.0
+		fire_spell_power = 0.1
+
+	[weapons.bloodbound_carnage]
+		#Durability || Default 2000
+		#Range: > 1
+		durability = 2000
+		#Damage || Default 19.0
+		#Range: 0.0 ~ 100.0
+		damage = 19.0
+		#Attack Speed || Default -2.5
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.5
+		#Blood Spell Power || MULTIPLY_TOTAL || Default 0.15
+		#Range: 0.0 ~ 1.0
+		blood_spell_power = 0.15
+
+	[weapons.celestial_edge]
+		#Durability || Default 2000
+		#Range: > 1
+		durability = 2000
+		#Damage || Default 19.0
+		#Range: 0.0 ~ 100.0
+		damage = 19.0
+		#Attack Speed || Default -2.5
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.5
+		#Holy Spell Power || MULTIPLY_TOTAL || Default 0.10
+		#Range: 0.0 ~ 1.0
+		holy_spell_power = 0.1
+

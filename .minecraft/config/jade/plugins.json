@@ -86,11 +86,11 @@
   "waystones": {
     "waystone": true
   },
+  "gravestone": {
+    "grave": true
+  },
   "lootr": {
     "info": true
-  },
-  "corpse": {
-    "corpse": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
