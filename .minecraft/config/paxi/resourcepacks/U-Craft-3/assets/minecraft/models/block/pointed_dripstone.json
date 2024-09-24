@@ -1,9 +1,9 @@
 {
 	"credit": "Created by Stridey",
 	"textures": {
-		"1": "block/pointed_dripstone_light",
-		"particle": "block/pointed_dripstone_up_tip",
-		"cross": "block/pointed_dripstone_up_tip"
+		"1": "cataclysm:block/pointed_dripstone_light",
+		"particle": "cataclysm:block/pointed_dripstone_up_tip",
+		"cross": "cataclysm:block/pointed_dripstone_up_tip"
 	},
 	"elements": [
 		{
