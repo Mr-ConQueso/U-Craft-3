@@ -8,7 +8,7 @@
 	maxAngleRange = 80.0
 	# If enabled, allows players to access the backpack of another player by interacting with the visible backpack on their back.
 	# Valid values: true, false
-	enabledPickpocketing = false
+	enabledPickpocketing = true
 	# The maximum reach distance of a player to interact with another player's backpack.
 	# Valid range: 0 to 4 (inclusive)
 	maxReachDistance = 2.0

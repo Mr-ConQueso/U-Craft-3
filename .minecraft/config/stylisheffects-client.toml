@@ -8,7 +8,7 @@
 		hovering_tooltip = true
 		#Minimum screen border distance for effect widgets.
 		#Range: > 0
-		screen_border_distance = 0
+		screen_border_distance = 3
 		#Show remaining status effect duration on tooltip.
 		tooltip_duration = true
 		#Maximum amount of status effects rendered in a single row.
@@ -25,7 +25,7 @@
 		widget_space_x = 1
 		#Custom scale for effect renderer.
 		#Range: 1.0 ~ 12.0
-		scale = 1.0
+		scale = 4.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
 		respect_hide_particles = false
 		#Exclude certain menus from showing active status effects. Useful when effect icons overlap with other screen elements.
@@ -64,9 +64,9 @@
 		widget_space_x = 1
 		#Custom scale for effect renderer.
 		#Range: 1.0 ~ 12.0
-		scale = 1.0
+		scale = 4.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
-		respect_hide_particles = false
+		respect_hide_particles = true
 		#Maximum amount of status effects rendered in a single column.
 		#Range: 1 ~ 255
 		max_rows = 255
@@ -77,7 +77,7 @@
 		screen_side = "RIGHT"
 		#Offset on x-axis.
 		#Range: > 0
-		offset_x = 80
+		offset_x = 3
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
